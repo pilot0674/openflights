@@ -3002,6 +3002,7 @@ var Airlines = []Airline{
 	{"Jamahiriya Airways", "", "", "JAW", "JAW", "Libya"},
 	{"Jambo Africa Airlines", "", "", "JMB", "JAMBOAFRICA", "Democratic Republic of Congo"},
 	{"Jana-Arka", "", "", "JAK", "YANZAR", "Kazakhstan"},
+	{"Janet Airlines", "", "", "WWW", "JANET", "United States"},
 	{"Janair", "", "", "JAX", "JANAIR", "United States"},
 	{"Japan Air Commuter", "", "", "JAC", "COMMUTER", "Japan"},
 	{"Japan Aircraft Service", "", "", "JSV", "", "Japan"},
